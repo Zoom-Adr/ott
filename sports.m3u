@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Seed Nakachi",Sky Main Event UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://seed.nakachi.online/hls/skymaineventuk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Seed Nakachi",Sky EPL UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://seed.nakachi.online/hls/skyepluk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Seed Nakachi",Sky Football UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://seed.nakachi.online/hls/skyfootballuk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Seed Nakachi",Sky Golf UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://seed.nakachi.online/hls/Skygolfuk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Seed Nakachi",Sky F1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Seed Nakachi", PremierSports1-FHD
+https://seed.nakachi.online/hls/premiersp1/playlist.m3u8
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Seed Nakachi", PremierSports2-FHD
+https://seed.nakachi.online/hls/premiersp2/playlist.m3u8
