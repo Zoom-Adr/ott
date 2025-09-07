@@ -1,48 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky Main Event UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://seed.nakachi.online/hls/skymaineventuk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky EPL UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://seed.nakachi.online/hls/skyepluk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky Football UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://seed.nakachi.online/hls/skyfootballuk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky Golf UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://seed.nakachi.online/hls/Skygolfuk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky F1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8?token=i4dNuBH5LYaPqtA29aK6xoyzOpss6NUW
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports", PremierSports1-FHD
 https://seed.nakachi.online/hls/premiersp1/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports", PremierSports2-FHD
 https://seed.nakachi.online/hls/premiersp2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports 1 FHD" group-title="Sports",Sky Sports 1 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233178
-
-#EXTINF:-1 tvg-id="SkySports2" tvg-name="Sky Sports 2 FHD" group-title="Sports",Sky Sports 2 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233179
-
-#EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports 3 FHD" group-title="Sports",Sky Sports 3 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233180
-
-#EXTINF:-1 tvg-id="SkySports4" tvg-name="Sky Sports 4 FHD" group-title="Sports",Sky Sports 4 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233181
-
-#EXTINF:-1 tvg-id="SkySports5" tvg-name="Sky Sports 5 FHD" group-title="Sports",Sky Sports 5 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233182
-
-#EXTINF:-1 tvg-id="SkySports6" tvg-name="Sky Sports 6 FHD" group-title="Sports",Sky Sports 6 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233183
-
-#EXTINF:-1 tvg-id="SkySports7" tvg-name="Sky Sports 7 FHD" group-title="Sports",Sky Sports 7 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233184
-
-#EXTINF:-1 tvg-id="SkySports8" tvg-name="Sky Sports 8 FHD" group-title="Sports",Sky Sports 8 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233185
-
-#EXTINF:-1 tvg-id="SkySports9" tvg-name="Sky Sports 9 FHD" group-title="Sports",Sky Sports 9 FHD
-https://vishwas-oppu.vercel.app/play.m3u8?id=233186
