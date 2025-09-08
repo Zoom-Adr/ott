@@ -10,5 +10,22 @@ https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/skymaineventuk/p
 https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/skyepluk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
 https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8
-
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png", TNT Sports 1
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tnt1-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png", TNT Sports 2
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tnt2-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png", TNT Sports 3
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tnt3-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png", TNT Sports 4
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tnt4-uk/chunks.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Sports | CA", TSN 1
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn1/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Sports | CA", TSN 2
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn2/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Sports | CA", TSN 3
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn3/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Sports | CA", TSN 4
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn4/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", TSN 5
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn5/playlist.m3u8
 
