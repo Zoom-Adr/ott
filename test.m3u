@@ -5,16 +5,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h" group-title="Sports",Star Sports Select 2
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky Main Event UK
-https://cors.beans.ai/https://seed.nakachi.online/hls/skymaineventuk/playlist.m3u8
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/skymaineventuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky EPL UK
-https://cors.beans.ai/https://seed.nakachi.online/hls/skyepluk/playlist.m3u8
+https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/skyepluk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
 https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
-https://cors.beans.ai/https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
-https://cors.mumzworld.com/https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
-https://cors.netlob.dev/https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
-https://cors.x-sure.co/https://seed.nakachi.online/hls/skyf1uk/playlist.m3u8
+
