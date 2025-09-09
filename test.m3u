@@ -28,4 +28,7 @@ https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn3/playlist.m3
 https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn4/playlist.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", TSN 5
 https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/tsn5/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", Sky NZ 8
+https://cors-proxy.sanderron.de/https://vishwas-oppu.vercel.app/play.m3u8?id=233185
+
 
