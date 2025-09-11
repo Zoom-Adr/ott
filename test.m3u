@@ -4,10 +4,10 @@
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h" group-title="Sports",Star Sports Select 2
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
-#EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁 Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 1
-http://stream1.amtv.my.id:1999/stream/hub/aspl1/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=uXbVtKZq4IRowi6XXmOsChjbmhs7sweW
-#EXTINF:-1 tvg-name="Astro Premier League" group-logo="http://qtvid.pw/glogo/astro.png" group-title="📁 Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 2
-http://stream1.amtv.my.id:1999/stream/hub/aspl2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=uXbVtKZq4IRowi6XXmOsChjbmhs7sweW
+#EXTINF:-1 tvg-name="Astro Premier League" group-title="Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 1
+https://cors-proxy.sanderron.de/http://stream1.amtv.my.id:1999/stream/hub/aspl1/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=uXbVtKZq4IRowi6XXmOsChjbmhs7sweW
+#EXTINF:-1 tvg-name="Astro Premier League" group-title="Astro Sports" tvg-logo="http://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/af8477b77fee4e0bba4053c002fb70bc/version/0/width/500/height/280",Astro Premier League 2
+https://cors-proxy.sanderron.de/http://stream1.amtv.my.id:1999/stream/hub/aspl2/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&token=uXbVtKZq4IRowi6XXmOsChjbmhs7sweW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky Sports Main Event
 https://cors-proxy.sanderron.de/https://seed.nakachi.online/hls/skymaineventuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Sports",Sky Sports EPL
