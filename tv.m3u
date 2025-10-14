@@ -35,6 +35,12 @@ http://mains.services/live/bshorty/Zv5le07a0J/45531087-726e-49cc-a815-9ccbdd8cb5
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY SPORT SELECT" tvg-logo="http://onlytimewilltell.xyz:2086/images/e958e1ed1794a270275d53cbae245dca.png" group-title="WORLD SPORTS",NZ SKY SPORT SELECT
 http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
 
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" group-title="WORLD SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",ASTRO EPL 1
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/18623
+#EXTINF:-1 tvg-id="AstroPremierLeague2" group-title="WORLD SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",ASTRO EPL 2
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/18622
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="WORLD SPORTS",HUB PREMIER 1
 http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032529&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="WORLD SPORTS",HUB PREMIER 2
