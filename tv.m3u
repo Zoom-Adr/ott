@@ -59,15 +59,6 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/18623
 #EXTINF:-1 tvg-id="AstroPremierLeague2" group-title="WORLD SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",ASTRO EPL 2
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/18622
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="WORLD SPORTS",HUB PREMIER 1
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032529&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="WORLD SPORTS",HUB PREMIER 2
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032528&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="WORLD SPORTS",HUB PREMIER 3
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032527&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="WORLD SPORTS",HUB PREMIER 4
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032526&extension=ts
-
 #EXTINF:-1 tvg-id="AstroPremierLeague" group-title="WORLD SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",ASTRO EPL 1
 http://34.80.180.91:5050/smart.php?id=Assp1
 #EXTINF:-1 tvg-id="AstroPremierLeague2" group-title="WORLD SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",ASTRO EPL 2
