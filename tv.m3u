@@ -67,3 +67,20 @@ http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032528&exten
 http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032527&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="WORLD SPORTS",HUB PREMIER 4
 http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:B5:46:30&stream=1032526&extension=ts
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" group-title="WORLD SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",ASTRO EPL 1
+http://34.80.180.91:5050/smart.php?id=Assp1
+#EXTINF:-1 tvg-id="AstroPremierLeague2" group-title="WORLD SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",ASTRO EPL 2
+http://34.80.180.91:5050/smart.php?id=Assp2
+#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.laobaitv.net/skysportsmainevent" group-title="WORLD SPORTS",SKY SPORTS MAIN EVENT
+http://34.80.180.91:5050/smart.php?id=tiankongmain
+#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.laobaitv.net/skysportspremierleague" group-title="WORLD SPORTS",SKY SPORTS PREMIER LEAGUE
+http://34.80.180.91:5050/smart.php?id=tiankongepl
+#EXTINF:-1 tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.laobaitv.net/skysportsmix" group-title="WORLD SPORTS",SKY SPORTS MIX
+http://34.80.180.91:5050/smart.php?id=tiankongmix
+#EXTINF:-1 tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.laobaitv.net/skysportscricket" group-title="WORLD SPORTS",SKY SPORTS CRICKET
+http://34.80.180.91:5050/smart.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://logo.laobaitv.net/skysportsf1" group-title="WORLD SPORTS",SKY SPORTS F1
+http://34.80.180.91:5050/smart.php?id=tiankongf1
+#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://logo.laobaitv.net/skysportsf1" group-title="WORLD SPORTS",SKY SPORTS F1
+http://xtvantsc.xyz/Smart.php?id=tiankongf1
