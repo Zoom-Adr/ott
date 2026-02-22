@@ -223,7 +223,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="grmionovorizontinovssantos2000tntbrasil" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Football",Grêmio Novorizontino vs Santos 20:00 (TNT BRASIL)
+#EXTINF:-1 tvg-id="grmionovorizontinovssantos2000tntbrasilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Football",Grêmio Novorizontino vs Santos 20:00 (TNT BRASIL FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dff0c1fb05933e4411d9d1d6a4b37d90:01fea0c71707ae879ea77e295693f71c
 https://abkv2pvaaaaaaaammrzhoalbu6ok7.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/fu4cvqiwbz/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
@@ -257,32 +257,6 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="freiburgvsmgladbach1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Freiburg vs M'gladbach 15:30 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1e343daeb8d05641556dee779b59c32:b95a09b8a606845930628d43edeef9b0
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gtwip8auof/out/v1/09797baa89ad4b35a1b225b402357a3a/cenc.mpd
-
-#EXTINF:-1 tvg-id="freiburgvsmgladbach1530daznde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Freiburg vs M'gladbach 15:30 (DAZN DE)
-https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8
-
-#EXTINF:-1 tvg-id="stpaulivswerderbremen1730daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",St. Pauli vs Werder Bremen 17:30 (DAZN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6bba6f76929c772e555acfee3ec57368:926e87f61aa1c219b8d35ee96e1b48dd
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j9tcu1g9sp/out/v1/ede0304f4c0b4fdaaf3f666ba0f234f3/cenc.mpd
-
-#EXTINF:-1 tvg-id="stpaulivswerderbremen1730daznde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",St. Pauli vs Werder Bremen 17:30 (DAZN DE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d95f0fc1205563dd690e98cae7620c0:9225d97e136864d8b889151fab4faccb
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6bjwdp1miu/out/v1/11f9d5af9bb7406b9e9a052cfeab76f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="stpaulivswerderbremen1730beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",St. Pauli vs Werder Bremen 17:30 (beIN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
-
-#EXTINF:-1 tvg-id="stpaulivswerderbremen1730magentasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",St. Pauli vs Werder Bremen 17:30 (Magenta Sports)
-https://smarthard.click/hls/TlL2PxktXlPG/index.m3u8
 
 #EXTINF:-1 tvg-id="heidenheimvsstuttgart1930daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Stuttgart 19:30 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -337,12 +311,3 @@ https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
 
 #EXTINF:-1 tvg-id="feyenoordvssctelstar2000espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Feyenoord vs SC Telstar 20:00 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
-
-#EXTINF:-1 tvg-id="beiktavsgztepe1800beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Beşiktaş vs Göztepe 18:00 (beIN SPORTS)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="karagmrkvssamsunspor1800skyaustria" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Karagümrük vs Samsunspor 18:00 (SKY AUSTRIA)
-https://smarthard.click/hls/loVXsDD4jST/index.m3u8
-
-#EXTINF:-1 tvg-id="karagmrkvssamsunspor1800trt1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Karagümrük vs Samsunspor 18:00 (TRT 1 SD)
-https://smarthard.click/hls/OgWmSLOpde0C/index.m3u8
