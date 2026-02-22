@@ -187,23 +187,29 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/
 #EXTINF:-1 tvg-id="thundervsclevelandcavaliers1900sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Thunder vs Cleveland Cavaliers 19:00 (SD SERVER)
 https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
 
+#EXTINF:-1 tvg-id="atlantahawksvsbrooklynnets2130fhdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Atlanta Hawks vs Brooklyn Nets 21:30 (FHD SERVER)
+https://cdn3.zafiles.cfd/live/cdn3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="atlantahawksvsbrooklynnets2130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Atlanta Hawks vs Brooklyn Nets 21:30 (SD SERVER)
-https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="goldenstatewarriorsvsdenvernuggets2130fhdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Golden State Warriors vs Denver Nuggets 21:30 (FHD SERVER)
+https://cdn4.zafiles.cfd/live/cdn4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="goldenstatewarriorsvsdenvernuggets2130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Golden State Warriors vs Denver Nuggets 21:30 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="milwaukeebucksvstorontoraptors2130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Milwaukee Bucks vs Toronto Raptors 21:30 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="indianapacersvsdallasmavericks2300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Indiana Pacers vs Dallas Mavericks 23:00 (SD SERVER)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
-
-#EXTINF:-1 tvg-id="washingtonwizardsvscharlottehornets0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Washington Wizards vs Charlotte Hornets 00:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
-#EXTINF:-1 tvg-id="losangeleslakersvsbostonceltics0030sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Los Angeles Lakers vs Boston Celtics 00:30 (SD SERVER)
+#EXTINF:-1 tvg-id="washingtonwizardsvscharlottehornets0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Washington Wizards vs Charlotte Hornets 00:00 (SD SERVER)
 https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="losangeleslakersvsbostonceltics0030sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Los Angeles Lakers vs Boston Celtics 00:30 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
 #EXTINF:-1 tvg-id="minnesotatimberwolvesvsphiladelphia76ers0100sdserv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Minnesota Timberwolves vs Philadelphia 76ers 01:00 (SD SERVER)
 https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
@@ -362,6 +368,11 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/mast
 
 #EXTINF:-1 tvg-id="stpaulivswerderbremen1730magentasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",St. Pauli vs Werder Bremen 17:30 (Magenta Sports)
 https://smarthard.click/hls/TlL2PxktXlPG/index.m3u8
+
+#EXTINF:-1 tvg-id="heidenheimvsstuttgart1930daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Stuttgart 19:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e12105486ff15914107c14003675590:36b8e6d2bf7f1944cefa96853c579e4d
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ffaehw3gqg/out/v1/a5cdd5d0f2f148169423057fe1977c01/cenc.mpd
 
 #EXTINF:-1 tvg-id="heidenheimvsstuttgart1930daznde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Stuttgart 19:30 (DAZN DE)
 https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8
