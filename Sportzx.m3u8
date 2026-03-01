@@ -190,11 +190,11 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10t
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (SKY SPORTS FHD)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
-
 #EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (SKY SPORTS FHD)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
 
 #EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500psnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (PSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -214,20 +214,20 @@ https://bbb.exoadash.com/TVD6219/index.mpd
 #EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500fhdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (FHD SERVER)
 https://601.lifesharper.com/main.m3u8
 
-#EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (SKY SPORTS FHD)
-https://601.xn--1000-ugoa0hsb9a0hb.com/arena.m3u8
-
 #EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (SKY SPORTS FHD)
+https://601.xn--1000-ugoa0hsb9a0hb.com/arena.m3u8
 
 #EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500usatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (USA TV FHD)
 https://daffodil.833577.xyz/usa.m3u8
 
-#EXTINF:-1 tvg-id="brightonvsnottinghamforest1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Nottingham Forest 15:00 (SKY SPORTS FHD)
-https://601.xn--1000-ugoa0hsb9a0hb.com/brighton.m3u8
-
 #EXTINF:-1 tvg-id="brightonvsnottinghamforest1500nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Nottingham Forest 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
+#EXTINF:-1 tvg-id="brightonvsnottinghamforest1500skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Nottingham Forest 15:00 (SKY SPORTS FHD)
+https://601.xn--1000-ugoa0hsb9a0hb.com/brighton.m3u8
 
 #EXTINF:-1 tvg-id="elchevsespanyol1400laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Elche vs Espanyol 14:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
