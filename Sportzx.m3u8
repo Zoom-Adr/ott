@@ -257,6 +257,14 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v
 #EXTINF:-1 tvg-id="newcastlevsmanchesterunited2115nowsportspl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Newcastle vs Manchester United 21:15 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
+#EXTINF:-1 tvg-id="newcastlevsmanchesterunited2115peacockengaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Newcastle vs Manchester United 21:15 (PEACOCK ENG - AQ)
+https://s3.us-east-1.amazonaws.com/artemys.derakchd/manu.m3u8
+
+#EXTINF:-1 tvg-id="newcastlevsmanchesterunited2115psnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Newcastle vs Manchester United 21:15 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+
 #EXTINF:-1 tvg-id="newcastlevsmanchesterunited2115skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Newcastle vs Manchester United 21:15 (SKY SPORTS HD)
 https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8
 
@@ -275,10 +283,15 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/
 #KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
 https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 tvg-id="realsociedadvsathleticclub2100itv4fhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa del rey 🇪🇸",Real Sociedad vs Athletic Club 21:00 (ITV 4 FHD)
+#EXTINF:-1 tvg-id="realsociedadvsathleticclub2100fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa del rey 🇪🇸",Real Sociedad vs Athletic Club 21:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="realsociedadvsathleticclub2100tvela1aq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Copa del rey 🇪🇸",Real Sociedad vs Athletic Club 21:00 (TVE LA 1 - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
 
 #EXTINF:-1 tvg-id="hamburgersvvsbayerleverkusen2030beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Hamburger SV vs Bayer Leverkusen 20:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
