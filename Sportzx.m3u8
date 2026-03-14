@@ -196,14 +196,8 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
 #EXTINF:-1 tvg-id="philadelphia76ersvsbrooklynnets1800sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers vs Brooklyn Nets 18:00 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
-#EXTINF:-1 tvg-id="atlantahawksvsmilwaukeebucks2000sportzxnba" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Atlanta Hawks vs Milwaukee Bucks 20:00 (SportzX NBA)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
-
 #EXTINF:-1 tvg-id="atlantahawksvsmilwaukeebucks2000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Atlanta Hawks vs Milwaukee Bucks 20:00 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
-
-#EXTINF:-1 tvg-id="sanantoniospursvscharlottehornets2030sportzxnba" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",San Antonio Spurs vs Charlotte Hornets 20:30 (SportzX NBA)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8
 
 #EXTINF:-1 tvg-id="sanantoniospursvscharlottehornets2030sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",San Antonio Spurs vs Charlotte Hornets 20:30 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
@@ -240,12 +234,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1
 #EXTINF:-1 tvg-id="alkhaleejvsalnassr2000thmanyahfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Khaleej vs Al-Nassr 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1403/index.mpd
+https://bbb.exoadash.com/TVD6737/index.mpd
 
 #EXTINF:-1 tvg-id="alfatehvsalhilal2000thmanyahfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Fateh vs Al-Hilal 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
+https://bbb.exoadash.com/TVD1451/index.mpd
 
 #EXTINF:-1 tvg-id="alshababvsalokhdood2000thmanyahfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Shabab vs Al-Okhdood 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
