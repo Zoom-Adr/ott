@@ -236,11 +236,17 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="charlottehornetsvsindianapacers0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Indiana Pacers 00:00 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+#EXTINF:-1 tvg-id="charlottehornetsvsindianapacers0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Indiana Pacers 00:00 (HOME CAM.)
+https://pro.packcast.top/newz/newz/147.m3u8
 
-#EXTINF:-1 tvg-id="philadelphia76ersvstimberwolves0000sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers vs Timberwolves 00:00 (SD SERVER)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+#EXTINF:-1 tvg-id="charlottehornetsvsindianapacers0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Indiana Pacers 00:00 (AWAY CAM.)
+https://pro.packcast.top/newz/newz/156.m3u8
+
+#EXTINF:-1 tvg-id="philadelphia76ersvstimberwolves0000homecam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers vs Timberwolves 00:00 (HOME CAM.)
+https://pro.packcast.top/newz/newz/137.m3u8
+
+#EXTINF:-1 tvg-id="philadelphia76ersvstimberwolves0000awaycam" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers vs Timberwolves 00:00 (AWAY CAM.)
+https://pro.packcast.top/newz/newz/164.m3u8
 
 #EXTINF:-1 tvg-id="brooklynnetsvsatlantahawks0030nbaliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Brooklyn Nets vs Atlanta Hawks 00:30 (NBA LIVE - AQ)
 https://nyachamselizabeth.s3.us-east-1.amazonaws.com/prime.m3u8
@@ -462,3 +468,12 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="nationalsvsdodgers1805mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Nationals vs Dodgers 18:05 (MLB LIVE - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/yankees.m3u8
+
+#EXTINF:-1 tvg-id="tigersvsstlouiscardinals1810mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Tigers vs St. Louis Cardinals 18:10 (MLB LIVE - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/tigers.m3u8
+
+#EXTINF:-1 tvg-id="yankeesvsmiamimarlins1835mlbliveaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mlb",Yankees vs Miami Marlins 18:35 (MLB LIVE - AQ)
+https://darmasaki888.s3.us-east-1.amazonaws.com/yankees.m3u8
