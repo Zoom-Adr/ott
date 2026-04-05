@@ -174,12 +174,6 @@ http://103.229.254.25:7001/play/a0a0/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=242a0612eb2cf817fa69cd18ee140450:bef3f38b21b088a7f0644b5169fcfcae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tug1yvvlko/out/v1/809fadb196f043b8988ac1505100a204/cenc.mpd
 
-#EXTINF:-1 tvg-id="ipl021500willowhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 02 15:00 (WILLOW  HIN )
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149699/master.m3u8
-
-#EXTINF:-1 tvg-id="ipl021500foxcricket" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Indian premier league",IPL - 02 15:00 (FOX CRICKET)
-https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8
-
 #EXTINF:-1 tvg-id="psl011500willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Psl",PSL 01 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a
@@ -358,6 +352,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-id="angersvsolympiquelyonnais1400sporttvsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Angers vs Olympique Lyonnais 14:00 (Sport TV SD)
+https://a4.kora-plus.dad/watch/tv3.m3u8
+
+#EXTINF:-1 tvg-id="angersvsolympiquelyonnais1400ligue1sd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Angers vs Olympique Lyonnais 14:00 (Ligue1  SD)
+https://smarthard.click/hls/ZWevymm11TKF/index.m3u8
+
+#EXTINF:-1 tvg-id="livingstonvsheartofmidlothian1400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",Livingston vs Heart of Midlothian 14:00 (SD SERVER)
+http://195.178.110.37/hls/UUUUQQQQQ.m3u8
 
 #EXTINF:-1 tvg-id="dundeefcvsceltic1630beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Scottish premiership",Dundee FC vs Celtic 16:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
