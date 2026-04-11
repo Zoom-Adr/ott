@@ -484,6 +484,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #EXTINF:-1 tvg-id="dortmundvsbayerleverkusen1430skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Dortmund vs Bayer Leverkusen 14:30 (SKY Bundesliga SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
+#EXTINF:-1 tvg-id="dortmundvsbayerleverkusen1430sonyliveng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Dortmund vs Bayer Leverkusen 14:30 (SonyLiv  ENG )
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Bundesli1104/ENG/master.m3u8
+
 #EXTINF:-1 tvg-id="stpaulivsbayernmnchen1730skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",St. Pauli vs Bayern München 17:30 (SKY Bundesliga SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
@@ -500,6 +503,9 @@ https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="utrechtvssctelstar1530espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Utrecht vs SC Telstar 15:30 (ESPN NL)
+https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8
 
 #EXTINF:-1 tvg-id="spartavspsv1745sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Sparta vs PSV 17:45 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
